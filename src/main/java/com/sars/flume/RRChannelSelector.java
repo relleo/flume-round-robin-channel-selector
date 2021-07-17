@@ -16,7 +16,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-package org.apache.flume.channel;
+package  com.sars.flume;
 
 import org.apache.flume.Channel;
 import org.apache.flume.Context;
