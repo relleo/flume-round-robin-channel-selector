@@ -15,7 +15,7 @@
 		<targetJavaVersion>1.8</targetJavaVersion>
 		<mvn-compiler-plugin.version>3.3</mvn-compiler-plugin.version>
 		<mvn-surefire-plugin.version>2.20.1</mvn-surefire-plugin.version>
-		<flume-ng-core.version>1.6.0</flume-ng-core.version>
+		<flume-ng-core.version>1.9.0</flume-ng-core.version>
 		<junit.version>4.11</junit.version>
 	</properties>
 
