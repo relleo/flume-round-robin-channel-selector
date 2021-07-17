@@ -19,6 +19,7 @@
 package  com.sars.flume;
 
 import org.apache.flume.Channel;
+import org.apache.flume.channel.AbstractChannelSelector;
 import org.apache.flume.Context;
 import org.apache.flume.Event;
 
